@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zzh/bw_ws/bw_ros_ws/devel/setup.sh
