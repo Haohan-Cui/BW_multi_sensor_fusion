@@ -1,8 +1,0 @@
-prefix=/home/zzh/bw_ws/bw_ros_ws/devel
-
-Name: bw_ros_driver
-Description: Description of bw_ros_driver
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp sensor_msgs
